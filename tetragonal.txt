@@ -1,0 +1,18 @@
+
+
+Notacion:
+
+a=angulo alfa, b=angulo beta, c=angulo gama(medidos en grados).
+E2=eje binario, E3=eje terciario, E4=eje cuaternario, E6=eje senario, P=plano, C=centro, N=número de caras.
+
+Singonia del sistema Tetragonal: a=b=c=90(medido en grados).
+Sinaxia del sistema Tetragonal: a=b!=c.
+ 
+  CLASE                                                ELEMENTOS DE SIMETRIA                   EJEMPLOS
+  Bipiramidal ditetragonal(Holoedria)                  E4+4E2+5P+C, N=16                       ..........
+  Bipiramidal tetragonal(Hemiedria paramorfica)        E4+P+C, N=8                             Wulfenita.
+  Piramidal ditetragonal(Hemiedria hemimorfica)        E4+4P, N=8                              Diaboleita.
+  Trapezoedral tetragonal(Hemiedria enantiomorfica)    E4+4E2, N=8                             ...........
+  Piramidal tetragonal(Tetartoedria)                   E4, N=4                                 ..........
+  Escalenoedral tetragonal(Hemiedria con reflexion)    E2+2E2+2P                               Calcopirita.
+  Biesfenoidal(Tetartoedria con reflexion)             E2, N=4                                 Caolunita.

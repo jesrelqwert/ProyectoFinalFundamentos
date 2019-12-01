@@ -1,0 +1,18 @@
+
+
+Notacion:
+
+a=angulo alfa, b=angulo beta, c=angulo gama(medidos en grados).
+E2=eje binario, E3=eje terciario, E4=eje cuaternario, E6=eje senario, P=plano, C=centro, N=número de caras.
+
+Singonia del sistema Hexagonal: a=b=90, c=120(medidos en grados).
+Sinaxia del sistema Hexagonal: a=b!=c.
+
+  CLASE                                                ELEMENTOS DE SIMETRIA                          EJEMPLOS
+  Bipiramidal dihexagonal(Holoedria)                   E6+6E2+7P+C, N=24                              Berilo, Covelita.
+  Bipiramidal hexagonal(Hemiedria paramorfica)         E6+P+C, N=12                                   Vanadinita.
+  Trapezoedrica(Hemiedria enantiomorfica)              E6+6E2, N=12                                   Cuarzo b.
+  Piramidal dihexagonal(Hemiedria hemimorfica)         E6+6P, N=12                                    Zincita, Iodargirita.
+  Piramidal(Tetartoedria)                              E6, N=6                                        Nenfelina.
+  Bipiramidal ditrigonal(Hemiedria con inversion)      E3+3E2+4P+C, N=12                              ...............
+  Bipiramidal trigonal(Tetartoedria con inversion)     E6+P, N=6                                      NO HAY MINERALES

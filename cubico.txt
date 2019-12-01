@@ -1,0 +1,16 @@
+
+
+Notacion:
+
+a=angulo alfa, b=angulo beta, c=angulo gama(medidos en grados).
+E2=eje binario, E3=eje terciario, E4=eje cuaternario, E6=eje senario, P=plano, C=centro, N=número de caras.
+
+Singonia del sistema cubico: a=b=c=90(medido en grados).
+Sinaxia del sistema cubico: a=b=c.
+
+  CLASE                                             ELEMENTOS DE SIMETRIA                 EJEMPLOS
+  Exaoctaedral(Holoedria)                           3E4+4E3+6E2+9P+C, N=48                Galena, Granate.
+  Giroidal(Hemidria enanatiomorfica)                3E4+4E3+6E2, N=24                     NO HAY MINERALES.
+  Tetraexaedral(Hemiedria hemimorfica)              4E3+3E2+6P, N=24                      Sodalita, Tetraedrita.
+  Piritoedral(Hemiedria paramorfica)                4E3+3E2+3P+C, N=24                    Pirita
+  Tristetraedral(Tetartoedria)                      4E3+3E2, N=12                         Cobaltita.
